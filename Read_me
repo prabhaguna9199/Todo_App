@@ -1,0 +1,19 @@
+#Todo
+it is a simple application for managing todo lists.
+
+task name:
+post method:add
+put method:modify
+delete method:delete
+get method:get/all
+get method:get/name
+
+
+installations
+pymongo
+fast api
+
+
+
+
+
